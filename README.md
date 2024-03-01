@@ -10,8 +10,11 @@ Let's connect? 🤝
 ## :eyes: Como Executar o Projeto
 
 (Para instalar o Visual Studio Code) -> (https://code.visualstudio.com/)
+
 (Para instalar o Visual JDK) -> (https://jdk.java.net/)
+
 (Para instalar o Visual Python) -> (https://www.python.org/downloads/)
+
 (Para instalar o Visual Android Studio) -> (https://developer.android.com/studio)
 
 
@@ -36,7 +39,7 @@ Rode execução do projeto atraves do comando.
 
 Execute na pasta raiz do projeto:
 ```bash
- robot -d ./logs tests/automacao_chronos.robot
+ robot -d ./results tests/automacao_chronos.robot
 ```
 - Através do framework:
 Abrir o Robot voce consegue consultar os reports na pasta Results.
